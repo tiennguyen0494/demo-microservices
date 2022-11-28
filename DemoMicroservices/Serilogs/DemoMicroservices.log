@@ -1,0 +1,1609 @@
+2022-11-23 22:20:23.015 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-23 22:20:24.351 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-23 22:20:24.386 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-23 22:20:24.386 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-23 22:20:24.387 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-23 22:20:24.387 +07:00 [INF] Hosting environment: Development
+2022-11-23 22:20:24.387 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-23 22:20:25.896 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/index.html - -
+2022-11-23 22:20:26.137 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/index.html - - - 200 - text/html;charset=utf-8 246.7402ms
+2022-11-23 22:20:26.213 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/swagger-ui.css - -
+2022-11-23 22:20:26.229 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/swagger-ui-bundle.js - -
+2022-11-23 22:20:26.372 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/swagger-ui-standalone-preset.js - -
+2022-11-23 22:20:26.510 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-11-23 22:20:26.533 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-11-23 22:20:26.537 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/swagger-ui-standalone-preset.js - - - 200 339486 text/javascript 165.6282ms
+2022-11-23 22:20:26.588 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/swagger-ui.css - - - 200 143943 text/css 374.4756ms
+2022-11-23 22:20:26.683 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-11-23 22:20:26.683 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/swagger-ui-bundle.js - - - 200 1096145 text/javascript 454.7362ms
+2022-11-23 22:20:27.033 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-23 22:20:27.276 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 242.7526ms
+2022-11-23 22:21:56.121 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-23 22:21:57.769 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-23 22:21:57.803 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-23 22:21:57.803 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-23 22:21:57.803 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-23 22:21:57.804 +07:00 [INF] Hosting environment: Development
+2022-11-23 22:21:57.804 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-23 22:21:59.344 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/index.html - -
+2022-11-23 22:21:59.639 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/index.html - - - 200 - text/html;charset=utf-8 297.3252ms
+2022-11-23 22:22:00.272 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-23 22:22:00.518 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 245.5378ms
+2022-11-23 22:25:19.071 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-23 22:25:22.948 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-23 22:25:24.962 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-23 22:25:24.963 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-23 22:25:24.965 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-23 22:25:24.966 +07:00 [INF] Hosting environment: Development
+2022-11-23 22:25:24.967 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-23 22:25:26.600 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/index.html - -
+2022-11-23 22:25:27.675 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/index.html - - - 200 - text/html;charset=utf-8 1114.6354ms
+2022-11-23 22:25:28.978 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-23 22:25:29.501 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 522.7773ms
+2022-11-23 22:43:00.986 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-23 22:43:04.323 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-23 22:43:06.683 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-23 22:43:06.684 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-23 22:43:06.686 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-23 22:43:06.687 +07:00 [INF] Hosting environment: Development
+2022-11-23 22:43:06.688 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-23 22:43:10.360 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/index.html - -
+2022-11-23 22:43:10.858 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/index.html - - - 404 0 - 513.3613ms
+2022-11-23 22:43:38.784 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-23 22:43:38.989 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 205.7688ms
+2022-11-23 22:43:39.105 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger-ui.css - -
+2022-11-23 22:43:39.139 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-23 22:43:39.141 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 1.9155ms
+2022-11-23 22:43:39.193 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger-ui-bundle.js - -
+2022-11-23 22:43:39.324 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger-ui-standalone-preset.js - -
+2022-11-23 22:43:39.575 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-11-23 22:43:39.577 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger-ui.css - - - 200 143943 text/css 472.3869ms
+2022-11-23 22:43:39.619 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-11-23 22:43:39.619 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger-ui-standalone-preset.js - - - 200 339486 text/javascript 295.0903ms
+2022-11-23 22:43:39.702 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-11-23 22:43:39.703 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger-ui-bundle.js - - - 200 1096145 text/javascript 509.3137ms
+2022-11-23 22:43:40.205 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-23 22:43:40.299 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/favicon-32x32.png - -
+2022-11-23 22:43:40.299 +07:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2022-11-23 22:43:40.300 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/favicon-32x32.png - - - 200 628 image/png 0.7727ms
+2022-11-23 22:43:40.454 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 248.9872ms
+2022-11-23 23:03:44.563 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-23 23:03:48.787 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-23 23:03:51.256 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-23 23:03:51.269 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-23 23:03:51.270 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-23 23:03:51.271 +07:00 [INF] Hosting environment: Development
+2022-11-23 23:03:51.275 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-23 23:03:52.737 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/ - -
+2022-11-23 23:03:53.197 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/ - - - 301 0 - 462.8430ms
+2022-11-23 23:03:53.205 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-23 23:03:54.600 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 1395.2795ms
+2022-11-23 23:03:54.606 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-23 23:03:54.656 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 49.8381ms
+2022-11-23 23:03:57.355 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-23 23:03:57.721 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 365.5901ms
+2022-11-23 23:05:05.153 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/user application/json 36
+2022-11-23 23:05:05.171 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-23 23:05:05.434 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-23 23:05:06.963 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-23 23:05:06.997 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 1538.4045ms
+2022-11-23 23:05:07.007 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-23 23:05:07.035 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/user application/json 36 - 202 0 - 1861.1179ms
+2022-11-23 23:09:33.181 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/user application/json 33
+2022-11-23 23:09:33.190 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-23 23:09:33.194 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-23 23:09:33.345 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-23 23:09:33.349 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 155.3371ms
+2022-11-23 23:09:33.351 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-23 23:09:33.352 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/user application/json 33 - 202 0 - 172.0345ms
+2022-11-23 23:10:35.432 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/user application/json 29
+2022-11-23 23:10:35.437 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-23 23:10:35.445 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-23 23:10:35.526 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-23 23:10:35.527 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 81.0633ms
+2022-11-23 23:10:35.528 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-23 23:10:35.529 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/user application/json 29 - 202 0 - 96.9572ms
+2022-11-23 23:15:20.176 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/user application/json 29
+2022-11-23 23:15:20.183 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-23 23:15:20.187 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-23 23:15:20.298 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-23 23:15:20.299 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 111.797ms
+2022-11-23 23:15:20.299 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-23 23:15:20.300 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/user application/json 29 - 202 0 - 124.4423ms
+2022-11-23 23:16:18.139 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/user application/json 32
+2022-11-23 23:16:18.143 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-23 23:16:18.143 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-23 23:16:18.230 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-23 23:16:18.230 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 85.9759ms
+2022-11-23 23:16:18.237 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-23 23:16:18.239 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/user application/json 32 - 202 0 - 99.3224ms
+2022-11-23 23:19:54.961 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222
+2022-11-23 23:19:54.972 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-23 23:19:55.028 +07:00 [INF] Route matched with {action = "CreateOrder", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateOrder(Models.CreateOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.OrderController (DemoMicroservices).
+2022-11-23 23:19:55.763 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-23 23:19:55.764 +07:00 [INF] Executed action DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices) in 734.3575ms
+2022-11-23 23:19:55.764 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-23 23:19:55.765 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222 - 202 0 - 806.5515ms
+2022-11-23 23:28:18.160 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-23 23:28:20.979 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-23 23:28:26.444 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-23 23:28:26.445 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-23 23:28:26.446 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-23 23:28:26.446 +07:00 [INF] Hosting environment: Development
+2022-11-23 23:28:26.447 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-23 23:28:28.459 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-23 23:28:29.711 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 1236.3331ms
+2022-11-23 23:28:29.759 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-23 23:28:29.864 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 104.5524ms
+2022-11-23 23:28:30.912 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-23 23:28:31.689 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 776.6740ms
+2022-11-23 23:33:27.058 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-23 23:33:30.443 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-23 23:33:32.453 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-23 23:33:32.454 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-23 23:33:32.458 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-23 23:33:32.460 +07:00 [INF] Hosting environment: Development
+2022-11-23 23:33:32.460 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-23 23:33:33.901 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-23 23:33:34.802 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 904.7802ms
+2022-11-23 23:33:34.824 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-23 23:33:34.840 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 16.6218ms
+2022-11-23 23:33:35.465 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-23 23:33:35.716 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 250.1932ms
+2022-11-23 23:36:47.967 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-23 23:36:51.027 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-23 23:36:53.510 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-23 23:36:53.511 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-23 23:36:53.514 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-23 23:36:53.514 +07:00 [INF] Hosting environment: Development
+2022-11-23 23:36:53.514 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-23 23:36:54.988 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-23 23:36:56.973 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 1930.9831ms
+2022-11-23 23:36:57.068 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-23 23:36:57.173 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 105.1563ms
+2022-11-23 23:36:57.886 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-23 23:36:58.135 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 249.3229ms
+2022-11-23 23:40:19.002 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222
+2022-11-23 23:40:19.013 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-23 23:40:19.242 +07:00 [INF] Route matched with {action = "CreateOrder", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateOrder(Models.CreateOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.OrderController (DemoMicroservices).
+2022-11-23 23:42:08.912 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-23 23:42:08.929 +07:00 [INF] Executed action DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices) in 109670.2039ms
+2022-11-23 23:42:08.933 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-23 23:42:08.944 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222 - 202 0 - 109938.8005ms
+2022-11-23 23:46:10.183 +07:00 [WRN] Connection Failed: "rabbitmq://localhost/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.ProtocolBase.CreateConnection(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-23 23:46:17.823 +07:00 [WRN] Connection Failed: "rabbitmq://localhost/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.IO.IOException: connection.start was never received, likely due to a network timeout
+   at RabbitMQ.Client.Framing.Impl.Connection.StartAndTune()
+   at RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.Framing.Impl.ProtocolBase.CreateConnection(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, ArrayPool`1 memoryPool, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-23 23:46:28.448 +07:00 [WRN] Connection Failed: "rabbitmq://localhost/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-23 23:46:43.924 +07:00 [WRN] Connection Failed: "rabbitmq://localhost/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-23 23:47:15.028 +07:00 [WRN] Connection Failed: "rabbitmq://localhost/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (61): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-23 23:50:49.244 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-23 23:50:50.582 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-23 23:50:51.240 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-23 23:50:51.241 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-23 23:50:51.242 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-23 23:50:51.242 +07:00 [INF] Hosting environment: Development
+2022-11-23 23:50:51.243 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-23 23:50:52.668 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-23 23:50:52.988 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 323.5195ms
+2022-11-23 23:50:53.078 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-23 23:50:53.096 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 16.4700ms
+2022-11-23 23:50:53.701 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-23 23:50:53.963 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 261.5722ms
+2022-11-23 23:56:48.169 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222
+2022-11-23 23:56:48.214 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-23 23:56:48.518 +07:00 [INF] Route matched with {action = "CreateOrder", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateOrder(Models.CreateOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.OrderController (DemoMicroservices).
+2022-11-23 23:57:08.059 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-23 23:57:08.067 +07:00 [INF] Executed action DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices) in 19542.7342ms
+2022-11-23 23:57:08.069 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-23 23:57:08.073 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222 - 202 0 - 19906.3020ms
+2022-11-24 00:00:15.473 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-24 00:00:17.338 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-24 00:00:18.675 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-24 00:00:18.675 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-24 00:00:18.703 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-24 00:00:18.704 +07:00 [INF] Hosting environment: Development
+2022-11-24 00:00:18.705 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-24 00:00:20.912 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-24 00:00:22.021 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 1004.1835ms
+2022-11-24 00:00:22.038 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-24 00:00:22.151 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 113.0437ms
+2022-11-24 00:00:22.804 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-24 00:00:23.204 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 399.2623ms
+2022-11-24 00:01:01.389 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222
+2022-11-24 00:01:01.412 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:01:01.634 +07:00 [INF] Route matched with {action = "CreateOrder", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateOrder(Models.CreateOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.OrderController (DemoMicroservices).
+2022-11-24 00:01:09.578 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-24 00:01:09.591 +07:00 [INF] Executed action DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices) in 7940.6849ms
+2022-11-24 00:01:09.593 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:01:09.596 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222 - 202 0 - 8207.3574ms
+2022-11-24 00:19:19.470 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-24 00:19:20.810 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-24 00:19:21.569 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-24 00:19:21.569 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-24 00:19:21.570 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-24 00:19:21.571 +07:00 [INF] Hosting environment: Development
+2022-11-24 00:19:21.571 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-24 00:19:23.201 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-24 00:19:23.644 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 482.3066ms
+2022-11-24 00:19:23.747 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-24 00:19:23.767 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 20.0156ms
+2022-11-24 00:19:25.031 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-24 00:19:25.948 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 916.0593ms
+2022-11-24 00:26:37.130 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-24 00:26:38.780 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-24 00:26:39.606 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-24 00:26:39.606 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-24 00:26:39.608 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-24 00:26:39.608 +07:00 [INF] Hosting environment: Development
+2022-11-24 00:26:39.608 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-24 00:26:41.424 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-24 00:26:42.568 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 1036.7228ms
+2022-11-24 00:26:42.583 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-24 00:26:42.610 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 26.8637ms
+2022-11-24 00:26:43.556 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-24 00:26:43.869 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 312.9383ms
+2022-11-24 00:27:15.527 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222
+2022-11-24 00:27:15.535 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:27:15.674 +07:00 [INF] Route matched with {action = "CreateOrder", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateOrder(Models.CreateOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.OrderController (DemoMicroservices).
+2022-11-24 00:27:25.420 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-24 00:27:25.442 +07:00 [INF] Executed action DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices) in 9747.0533ms
+2022-11-24 00:27:25.444 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:27:25.449 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222 - 202 0 - 9921.8043ms
+2022-11-24 00:29:36.747 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-24 00:29:38.180 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-24 00:29:38.693 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-24 00:29:38.693 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-24 00:29:38.694 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-24 00:29:38.695 +07:00 [INF] Hosting environment: Development
+2022-11-24 00:29:38.695 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-24 00:29:40.424 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-24 00:29:40.875 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 452.9005ms
+2022-11-24 00:29:41.094 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-24 00:29:41.117 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 22.2730ms
+2022-11-24 00:29:41.827 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-24 00:29:42.093 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 266.0117ms
+2022-11-24 00:29:57.397 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222
+2022-11-24 00:29:57.407 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:29:57.580 +07:00 [INF] Route matched with {action = "CreateOrder", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateOrder(Models.CreateOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.OrderController (DemoMicroservices).
+2022-11-24 00:29:59.351 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-24 00:29:59.388 +07:00 [INF] Executed action DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices) in 1780.6965ms
+2022-11-24 00:29:59.399 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:29:59.432 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222 - 202 0 - 2034.1416ms
+2022-11-24 00:31:23.996 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222
+2022-11-24 00:31:23.998 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:31:23.999 +07:00 [INF] Route matched with {action = "CreateOrder", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateOrder(Models.CreateOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.OrderController (DemoMicroservices).
+2022-11-24 00:31:24.099 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-24 00:31:24.099 +07:00 [INF] Executed action DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices) in 100.0166ms
+2022-11-24 00:31:24.100 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:31:24.100 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222 - 202 0 - 103.8832ms
+2022-11-24 00:31:48.114 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222
+2022-11-24 00:31:48.116 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:31:48.116 +07:00 [INF] Route matched with {action = "CreateOrder", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateOrder(Models.CreateOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.OrderController (DemoMicroservices).
+2022-11-24 00:31:48.139 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-24 00:31:48.140 +07:00 [INF] Executed action DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices) in 23.4437ms
+2022-11-24 00:31:48.140 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:31:48.141 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222 - 202 0 - 26.4350ms
+2022-11-24 00:33:48.518 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-24 00:33:49.936 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-24 00:33:50.715 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-24 00:33:50.716 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-24 00:33:50.717 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-24 00:33:50.718 +07:00 [INF] Hosting environment: Development
+2022-11-24 00:33:50.718 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-24 00:33:52.425 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-24 00:33:53.238 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 819.5063ms
+2022-11-24 00:33:53.261 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-24 00:33:53.283 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 21.5453ms
+2022-11-24 00:33:54.035 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-24 00:33:54.379 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 344.0842ms
+2022-11-24 00:34:02.760 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222
+2022-11-24 00:34:02.768 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:34:02.875 +07:00 [INF] Route matched with {action = "CreateOrder", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateOrder(Models.CreateOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.OrderController (DemoMicroservices).
+2022-11-24 00:34:04.512 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-24 00:34:04.595 +07:00 [INF] Executed action DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices) in 1648.6918ms
+2022-11-24 00:34:04.599 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:34:04.612 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222 - 202 0 - 1851.1816ms
+2022-11-24 00:41:14.492 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-24 00:41:16.221 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-24 00:41:17.165 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-24 00:41:17.166 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-24 00:41:17.181 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-24 00:41:17.181 +07:00 [INF] Hosting environment: Development
+2022-11-24 00:41:17.182 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-24 00:41:18.848 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-24 00:41:19.792 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 928.1718ms
+2022-11-24 00:41:19.807 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-24 00:41:19.974 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 166.0460ms
+2022-11-24 00:41:20.686 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-24 00:41:21.376 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 690.3073ms
+2022-11-24 00:41:26.246 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222
+2022-11-24 00:41:26.251 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:41:26.366 +07:00 [INF] Route matched with {action = "CreateOrder", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateOrder(Models.CreateOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.OrderController (DemoMicroservices).
+2022-11-24 00:41:27.970 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-24 00:41:27.999 +07:00 [INF] Executed action DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices) in 1613.7464ms
+2022-11-24 00:41:28.003 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:41:28.031 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222 - 202 0 - 1784.1957ms
+2022-11-24 00:42:39.729 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222
+2022-11-24 00:42:39.731 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:42:39.732 +07:00 [INF] Route matched with {action = "CreateOrder", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateOrder(Models.CreateOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.OrderController (DemoMicroservices).
+2022-11-24 00:42:39.869 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-24 00:42:39.871 +07:00 [INF] Executed action DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices) in 138.7547ms
+2022-11-24 00:42:39.872 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:42:39.873 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222 - 202 0 - 144.5407ms
+2022-11-24 00:45:01.738 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-24 00:45:03.290 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-24 00:45:04.161 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-24 00:45:04.161 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-24 00:45:04.162 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-24 00:45:04.162 +07:00 [INF] Hosting environment: Development
+2022-11-24 00:45:04.162 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-24 00:45:05.649 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-24 00:45:06.126 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 484.2151ms
+2022-11-24 00:45:06.285 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-24 00:45:06.300 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 14.9581ms
+2022-11-24 00:45:06.871 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-24 00:45:07.104 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 232.6618ms
+2022-11-24 00:45:10.468 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222
+2022-11-24 00:45:10.472 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:45:10.591 +07:00 [INF] Route matched with {action = "CreateOrder", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateOrder(Models.CreateOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.OrderController (DemoMicroservices).
+2022-11-24 00:45:13.084 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-24 00:45:13.115 +07:00 [INF] Executed action DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices) in 2496.0957ms
+2022-11-24 00:45:13.120 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:45:13.144 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222 - 202 0 - 2676.0212ms
+2022-11-24 00:47:23.499 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-24 00:47:26.194 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-24 00:47:27.647 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-24 00:47:27.648 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-24 00:47:27.649 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-24 00:47:27.650 +07:00 [INF] Hosting environment: Development
+2022-11-24 00:47:27.650 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-24 00:47:29.208 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-24 00:47:29.658 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 509.5194ms
+2022-11-24 00:47:29.751 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-24 00:47:29.765 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 13.1955ms
+2022-11-24 00:47:30.479 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-24 00:47:31.182 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 702.7549ms
+2022-11-24 00:49:06.902 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-24 00:49:08.472 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-24 00:49:10.107 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-24 00:49:10.108 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-24 00:49:10.109 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-24 00:49:10.109 +07:00 [INF] Hosting environment: Development
+2022-11-24 00:49:10.109 +07:00 [INF] Content root path: /Users/tiennguyen/Desktop/Demo/DemoMicroservices
+2022-11-24 00:49:11.671 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/index.html - -
+2022-11-24 00:49:11.953 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 285.2011ms
+2022-11-24 00:49:11.993 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/custom.css - -
+2022-11-24 00:49:12.011 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 18.2527ms
+2022-11-24 00:49:12.683 +07:00 [INF] Request starting HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-24 00:49:12.961 +07:00 [INF] Request finished HTTP/1.1 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 278.3262ms
+2022-11-24 00:51:52.873 +07:00 [INF] Request starting HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222
+2022-11-24 00:51:52.881 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:51:52.960 +07:00 [INF] Route matched with {action = "CreateOrder", controller = "Order"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateOrder(Models.CreateOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.OrderController (DemoMicroservices).
+2022-11-24 00:51:55.162 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-24 00:51:55.196 +07:00 [INF] Executed action DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices) in 2206.6224ms
+2022-11-24 00:51:55.203 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.OrderController.CreateOrder (DemoMicroservices)'
+2022-11-24 00:51:55.214 +07:00 [INF] Request finished HTTP/1.1 POST https://localhost:7005/order/create-order application/json 222 - 202 0 - 2341.0180ms
+2022-11-25 10:53:40.605 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 10:53:40.851 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 10:53:40.852 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 10:53:40.853 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 10:53:40.854 +07:00 [INF] Hosting environment: Development
+2022-11-25 10:53:40.855 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 10:53:41.714 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/ - -
+2022-11-25 10:53:41.808 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/ - - - 301 0 - 97.5978ms
+2022-11-25 10:53:41.856 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 10:53:42.039 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 183.3409ms
+2022-11-25 10:53:42.093 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger-ui.css - -
+2022-11-25 10:53:42.093 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger-ui-bundle.js - -
+2022-11-25 10:53:42.094 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 10:53:42.100 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 6.4578ms
+2022-11-25 10:53:42.116 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-11-25 10:53:42.121 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger-ui.css - - - 200 143943 text/css 27.3477ms
+2022-11-25 10:53:42.138 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-11-25 10:53:42.145 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger-ui-bundle.js - - - 200 1096145 text/javascript 51.5251ms
+2022-11-25 10:53:42.224 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger-ui-standalone-preset.js - -
+2022-11-25 10:53:42.227 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 10:53:42.234 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 5.9070ms
+2022-11-25 10:53:42.239 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-11-25 10:53:42.240 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger-ui-standalone-preset.js - - - 200 339486 text/javascript 16.3558ms
+2022-11-25 10:53:42.280 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 10:53:42.336 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 55.6075ms
+2022-11-25 10:53:42.930 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 10:53:42.954 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/favicon-32x32.png - -
+2022-11-25 10:53:42.955 +07:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2022-11-25 10:53:42.957 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/favicon-32x32.png - - - 200 628 image/png 2.5896ms
+2022-11-25 10:53:43.009 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 79.3522ms
+2022-11-25 10:53:44.903 +07:00 [WRN] Connection Failed: "rabbitmq://localhost/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 10:53:55.685 +07:00 [WRN] Connection Failed: "rabbitmq://localhost/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 10:55:03.547 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 10:55:03.793 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 10:55:03.795 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 10:55:03.796 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 10:55:03.797 +07:00 [INF] Hosting environment: Development
+2022-11-25 10:55:03.798 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 10:55:04.298 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 10:55:04.470 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 174.2802ms
+2022-11-25 10:55:04.491 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 10:55:04.491 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 10:55:04.496 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 5.0588ms
+2022-11-25 10:55:04.499 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 7.6175ms
+2022-11-25 10:55:04.518 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 10:55:04.535 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 16.2185ms
+2022-11-25 10:55:04.722 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 10:55:04.819 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 96.5663ms
+2022-11-25 10:55:05.763 +07:00 [WRN] Connection Failed: "rabbitmq://127.0.0.1/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 10:55:14.541 +07:00 [WRN] Connection Failed: "rabbitmq://127.0.0.1/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 10:55:27.261 +07:00 [WRN] Connection Failed: "rabbitmq://127.0.0.1/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 10:55:47.260 +07:00 [WRN] Connection Failed: "rabbitmq://127.0.0.1/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 10:56:13.860 +07:00 [WRN] Connection Failed: "rabbitmq://127.0.0.1/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 10:56:46.914 +07:00 [WRN] Connection Failed: "rabbitmq://127.0.0.1/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 10:57:19.980 +07:00 [WRN] Connection Failed: "rabbitmq://127.0.0.1/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 10:57:53.017 +07:00 [WRN] Connection Failed: "rabbitmq://127.0.0.1/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 10:58:26.052 +07:00 [WRN] Connection Failed: "rabbitmq://127.0.0.1/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 10:58:59.105 +07:00 [WRN] Connection Failed: "rabbitmq://127.0.0.1/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 10:59:48.202 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 10:59:48.478 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 10:59:48.479 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 10:59:48.481 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 10:59:48.481 +07:00 [INF] Hosting environment: Development
+2022-11-25 10:59:48.482 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 10:59:50.160 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 10:59:50.340 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 181.5482ms
+2022-11-25 10:59:50.366 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 10:59:50.366 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 10:59:50.370 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 4.1894ms
+2022-11-25 10:59:50.371 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 5.2849ms
+2022-11-25 10:59:50.391 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 10:59:50.409 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 16.8750ms
+2022-11-25 10:59:50.440 +07:00 [WRN] Connection Failed: "rabbitmq://192.168.180.132/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 10:59:50.599 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 10:59:50.688 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 88.8528ms
+2022-11-25 10:59:59.057 +07:00 [WRN] Connection Failed: "rabbitmq://192.168.180.132/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 11:00:11.270 +07:00 [WRN] Connection Failed: "rabbitmq://192.168.180.132/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 11:00:28.632 +07:00 [WRN] Connection Failed: "rabbitmq://192.168.180.132/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 11:00:28.837 +07:00 [INF] Application is shutting down...
+2022-11-25 11:00:28.843 +07:00 [WRN] Failed to stop bus: "rabbitmq://192.168.180.132/VNTIENNGUYENVA_DemoMicroservices_bus_htpyyybntpcbnbj1bdpc7gm68u?temporary=true" (Not Started)
+2022-11-25 11:05:39.133 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 11:05:39.340 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 11:05:39.341 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 11:05:39.342 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 11:05:39.343 +07:00 [INF] Hosting environment: Development
+2022-11-25 11:05:39.343 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 11:05:41.064 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 11:05:41.219 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 157.9833ms
+2022-11-25 11:05:41.232 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 11:05:41.232 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 11:05:41.238 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 5.3587ms
+2022-11-25 11:05:41.238 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 5.4381ms
+2022-11-25 11:05:41.276 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 11:05:41.298 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 21.5599ms
+2022-11-25 11:05:41.326 +07:00 [WRN] Connection Failed: "rabbitmq://127.0.0.1/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 11:05:41.505 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 11:05:41.645 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 139.4688ms
+2022-11-25 11:05:49.992 +07:00 [WRN] Connection Failed: "rabbitmq://127.0.0.1/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 11:18:41.543 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 11:18:41.758 +07:00 [WRN] Connection Failed: "rabbitmq://rabbit@localhost/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.NameResolutionPal.ProcessResult(SocketError errorCode, GetAddrInfoExContext* context)
+   at System.Net.NameResolutionPal.GetAddressInfoExCallback(Int32 error, Int32 bytes, NativeOverlapped* overlapped)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 11:18:41.784 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 11:18:41.785 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 11:18:41.786 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 11:18:41.786 +07:00 [INF] Hosting environment: Development
+2022-11-25 11:18:41.787 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 11:18:44.308 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 11:18:44.575 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 270.0328ms
+2022-11-25 11:18:44.620 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 11:18:44.644 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 25.0977ms
+2022-11-25 11:18:44.794 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 11:18:44.800 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 5.6257ms
+2022-11-25 11:18:44.800 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 11:18:44.822 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 21.5623ms
+2022-11-25 11:18:45.100 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 11:18:45.217 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 117.2932ms
+2022-11-25 11:18:48.454 +07:00 [WRN] Connection Failed: "rabbitmq://rabbit@localhost/"
+RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable
+ ---> System.AggregateException: One or more errors occurred. (Connection failed)
+ ---> RabbitMQ.Client.Exceptions.ConnectFailureException: Connection failed
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.NameResolutionPal.ProcessResult(SocketError errorCode, GetAddrInfoExContext* context)
+   at System.Net.NameResolutionPal.GetAddressInfoExCallback(Int32 error, Int32 bytes, NativeOverlapped* overlapped)
+--- End of stack trace from previous location ---
+   at RabbitMQ.Client.Impl.TcpClientAdapter.ConnectAsync(String host, Int32 port)
+   at RabbitMQ.Client.Impl.TaskExtensions.TimeoutAfter(Task task, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectOrFail(ITcpClient socket, AmqpTcpEndpoint endpoint, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingAddressFamily(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout, AddressFamily family)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ConnectUsingIPv4(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan timeout)
+   at RabbitMQ.Client.Impl.SocketFrameHandler..ctor(AmqpTcpEndpoint endpoint, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.Framing.Impl.IProtocolExtensions.CreateFrameHandler(IProtocol protocol, AmqpTcpEndpoint endpoint, ArrayPool`1 pool, Func`2 socketFactory, TimeSpan connectionTimeout, TimeSpan readTimeout, TimeSpan writeTimeout)
+   at RabbitMQ.Client.ConnectionFactory.CreateFrameHandler(AmqpTcpEndpoint endpoint)
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.EndpointResolverExtensions.SelectOne[T](IEndpointResolver resolver, Func`2 selector)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- End of inner exception stack trace ---
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   at RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   at MassTransit.RabbitMqTransport.ConnectionContextFactory.CreateConnection(ISupervisor supervisor) in /_/src/Transports/MassTransit.RabbitMqTransport/RabbitMqTransport/ConnectionContextFactory.cs:line 86
+2022-11-25 12:33:04.698 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 12:33:05.082 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 12:33:05.082 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 12:33:05.083 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 12:33:05.084 +07:00 [INF] Hosting environment: Development
+2022-11-25 12:33:05.084 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 12:33:05.200 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-25 12:33:05.490 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 12:33:05.697 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 208.4550ms
+2022-11-25 12:33:05.721 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 12:33:05.721 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 12:33:05.728 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 6.4074ms
+2022-11-25 12:33:05.730 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 8.3643ms
+2022-11-25 12:33:05.744 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 12:33:05.781 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 36.8512ms
+2022-11-25 12:33:05.881 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 12:33:05.969 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 88.1998ms
+2022-11-25 12:34:08.472 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 12:34:08.999 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 12:34:09.002 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 12:34:09.004 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 12:34:09.006 +07:00 [INF] Hosting environment: Development
+2022-11-25 12:34:09.006 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 12:34:09.162 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-25 12:34:11.320 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 12:34:11.935 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 626.4753ms
+2022-11-25 12:34:11.975 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 12:34:11.987 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 12.1298ms
+2022-11-25 12:34:12.193 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 12:34:12.220 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 27.3822ms
+2022-11-25 12:34:12.238 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 12:34:12.422 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 183.1290ms
+2022-11-25 12:34:12.897 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 12:34:13.031 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 134.0917ms
+2022-11-25 17:04:42.734 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 17:04:42.977 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 17:04:42.978 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 17:04:42.978 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 17:04:42.979 +07:00 [INF] Hosting environment: Development
+2022-11-25 17:04:42.980 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 17:04:43.138 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-25 17:04:45.868 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 17:04:46.107 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 241.9526ms
+2022-11-25 17:04:46.178 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 17:04:46.194 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 16.7127ms
+2022-11-25 17:04:46.245 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 17:04:46.251 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 5.7889ms
+2022-11-25 17:04:46.283 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 17:04:46.307 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 24.4456ms
+2022-11-25 17:04:46.580 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 17:04:46.662 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 82.2323ms
+2022-11-25 17:05:16.873 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 17:05:16.878 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 4.4599ms
+2022-11-25 17:05:16.889 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 17:05:16.889 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 17:05:16.891 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 1.1484ms
+2022-11-25 17:05:16.891 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 1.6866ms
+2022-11-25 17:05:16.905 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 17:05:16.915 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 9.8672ms
+2022-11-25 17:05:17.009 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 17:05:17.014 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 4.5967ms
+2022-11-25 17:05:22.409 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 17:05:22.593 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 17:05:22.594 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 17:05:22.594 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 17:05:22.595 +07:00 [INF] Hosting environment: Development
+2022-11-25 17:05:22.595 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 17:05:22.691 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-25 17:05:23.121 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 17:05:23.241 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 121.0948ms
+2022-11-25 17:05:23.251 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 17:05:23.251 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 17:05:23.256 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 4.3333ms
+2022-11-25 17:05:23.256 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 5.1456ms
+2022-11-25 17:05:23.263 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 17:05:23.276 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 12.7323ms
+2022-11-25 17:05:23.361 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 17:05:23.420 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 59.4419ms
+2022-11-25 17:05:34.114 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 17:05:34.300 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 17:05:34.301 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 17:05:34.302 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 17:05:34.302 +07:00 [INF] Hosting environment: Development
+2022-11-25 17:05:34.303 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 17:05:34.388 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-25 17:05:34.920 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 17:05:35.049 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 130.0768ms
+2022-11-25 17:05:35.073 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 17:05:35.073 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 17:05:35.078 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 5.5970ms
+2022-11-25 17:05:35.080 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 6.4714ms
+2022-11-25 17:05:35.102 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 17:05:35.124 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 21.9616ms
+2022-11-25 17:05:35.246 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 17:05:35.332 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 85.8930ms
+2022-11-25 17:06:20.357 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 17:06:20.529 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 17:06:20.529 +07:00 [INF] Hosting environment: Development
+2022-11-25 17:06:20.529 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 17:06:20.546 +07:00 [INF] Request starting HTTP/2 GET https://localhost:44378/swagger - -
+2022-11-25 17:06:20.599 +07:00 [INF] Request finished HTTP/2 GET https://localhost:44378/swagger - - - 404 - - 55.3534ms
+2022-11-25 17:06:20.688 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-25 17:46:06.540 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 17:46:06.886 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 17:46:06.886 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 17:46:06.887 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 17:46:06.888 +07:00 [INF] Hosting environment: Development
+2022-11-25 17:46:06.888 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 17:46:06.993 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-25 17:46:07.535 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 17:46:07.724 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 190.4688ms
+2022-11-25 17:46:07.742 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 17:46:07.742 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 17:46:07.748 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 6.4206ms
+2022-11-25 17:46:07.748 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 6.6284ms
+2022-11-25 17:46:07.775 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 17:46:07.821 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.4594ms
+2022-11-25 17:46:07.930 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 17:46:08.018 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 87.5913ms
+2022-11-25 17:49:11.563 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 31
+2022-11-25 17:49:11.566 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-25 17:49:11.594 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-25 17:49:11.863 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-25 17:49:11.867 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 269.0818ms
+2022-11-25 17:49:11.869 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-25 17:49:11.871 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 31 - 202 0 - 308.3846ms
+2022-11-25 17:50:22.895 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 28
+2022-11-25 17:50:22.900 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-25 17:50:22.902 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-25 17:59:43.442 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 17:59:44.051 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 17:59:44.053 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 17:59:44.055 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 17:59:44.056 +07:00 [INF] Hosting environment: Development
+2022-11-25 17:59:44.057 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 17:59:44.173 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-25 17:59:47.069 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 17:59:47.586 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 519.2037ms
+2022-11-25 17:59:47.655 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 17:59:47.698 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 42.1613ms
+2022-11-25 17:59:47.863 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 17:59:47.874 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 10.9392ms
+2022-11-25 17:59:47.886 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 17:59:47.957 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 70.8886ms
+2022-11-25 17:59:48.367 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 17:59:48.524 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 156.3908ms
+2022-11-25 18:00:30.294 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 18:00:30.869 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 18:00:30.871 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 18:00:30.872 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 18:00:30.874 +07:00 [INF] Hosting environment: Development
+2022-11-25 18:00:30.875 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 18:00:30.991 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-25 18:00:34.024 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 18:00:34.386 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 365.7101ms
+2022-11-25 18:00:34.456 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 18:00:34.476 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 20.1492ms
+2022-11-25 18:00:34.729 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 18:00:34.737 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 18:00:34.740 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 11.0732ms
+2022-11-25 18:00:34.812 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 75.5634ms
+2022-11-25 18:00:35.309 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 18:00:35.434 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 124.5898ms
+2022-11-25 18:05:22.426 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 19
+2022-11-25 18:05:22.430 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-25 18:05:22.450 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-25 18:05:31.462 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-25 18:05:31.465 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 9011.6927ms
+2022-11-25 18:05:31.466 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-25 18:05:31.467 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 19 - 202 0 - 9042.1475ms
+2022-11-25 18:07:21.832 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-25 18:07:22.396 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-25 18:07:22.397 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-25 18:07:22.398 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-25 18:07:22.399 +07:00 [INF] Hosting environment: Development
+2022-11-25 18:07:22.399 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-25 18:07:22.563 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-25 18:07:26.333 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-25 18:07:26.737 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 406.1490ms
+2022-11-25 18:07:26.880 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-25 18:07:26.898 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 16.6073ms
+2022-11-25 18:07:27.143 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-25 18:07:27.153 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 9.6656ms
+2022-11-25 18:07:27.157 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-25 18:07:27.239 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 81.3641ms
+2022-11-25 18:07:27.629 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-25 18:07:27.711 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 82.0539ms
+2022-11-25 18:08:05.965 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 24
+2022-11-25 18:08:05.971 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-25 18:08:05.993 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-25 18:08:08.413 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-25 18:08:08.417 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 2419.6231ms
+2022-11-25 18:08:08.419 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-25 18:08:08.420 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 24 - 202 0 - 2455.8939ms
+2022-11-28 08:54:50.462 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-28 08:54:50.904 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-28 08:54:50.906 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-28 08:54:50.907 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-28 08:54:50.907 +07:00 [INF] Hosting environment: Development
+2022-11-28 08:54:50.908 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-28 08:54:51.043 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-28 08:54:52.787 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-28 08:54:53.126 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 343.0240ms
+2022-11-28 08:54:53.186 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-28 08:54:53.194 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 7.2323ms
+2022-11-28 08:54:53.240 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-28 08:54:53.251 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 11.0877ms
+2022-11-28 08:54:53.282 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-28 08:54:53.351 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 69.3485ms
+2022-11-28 08:54:53.791 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-28 08:54:54.055 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 263.8022ms
+2022-11-28 08:55:15.002 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 32
+2022-11-28 08:55:15.008 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 08:55:15.040 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-28 08:55:18.320 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-28 08:55:18.324 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 3279.6945ms
+2022-11-28 08:55:18.326 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 08:55:18.327 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 32 - 202 0 - 3324.9919ms
+2022-11-28 08:56:38.129 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-28 08:56:38.666 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-28 08:56:38.667 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-28 08:56:38.670 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-28 08:56:38.671 +07:00 [INF] Hosting environment: Development
+2022-11-28 08:56:38.672 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-28 08:56:38.826 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-28 08:56:42.233 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-28 08:56:42.567 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 335.9688ms
+2022-11-28 08:56:42.625 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-28 08:56:42.639 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 13.6235ms
+2022-11-28 08:56:42.768 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-28 08:56:42.783 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 14.9891ms
+2022-11-28 08:56:42.797 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-28 08:56:42.937 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 139.6392ms
+2022-11-28 08:56:43.278 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-28 08:56:43.417 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 139.1178ms
+2022-11-28 08:57:42.517 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-28 08:57:43.007 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-28 08:57:43.009 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-28 08:57:43.010 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-28 08:57:43.011 +07:00 [INF] Hosting environment: Development
+2022-11-28 08:57:43.012 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-28 08:57:43.185 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-28 08:57:46.886 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-28 08:57:47.186 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 302.9573ms
+2022-11-28 08:57:47.234 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-28 08:57:47.248 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 13.7401ms
+2022-11-28 08:57:47.342 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-28 08:57:47.342 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-28 08:57:47.356 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 13.5110ms
+2022-11-28 08:57:47.434 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 91.3413ms
+2022-11-28 08:57:47.971 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-28 08:57:48.086 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 115.1491ms
+2022-11-28 08:59:24.644 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 29
+2022-11-28 08:59:24.655 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 08:59:24.678 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-28 08:59:24.884 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-28 08:59:24.888 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 205.6042ms
+2022-11-28 08:59:24.890 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 08:59:24.891 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 29 - 202 0 - 247.6492ms
+2022-11-28 09:00:07.526 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-28 09:00:07.968 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-28 09:00:07.971 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-28 09:00:07.972 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-28 09:00:07.973 +07:00 [INF] Hosting environment: Development
+2022-11-28 09:00:07.974 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-28 09:00:08.105 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-28 09:00:11.621 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-28 09:00:11.955 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 334.3714ms
+2022-11-28 09:00:12.039 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-28 09:00:12.039 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-28 09:00:12.039 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-28 09:00:12.100 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 60.6635ms
+2022-11-28 09:00:12.129 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 89.6883ms
+2022-11-28 09:00:12.307 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 267.6757ms
+2022-11-28 09:00:12.500 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-28 09:00:12.650 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 150.0223ms
+2022-11-28 09:00:26.166 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 22
+2022-11-28 09:00:26.170 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:00:26.192 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-28 09:00:26.387 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-28 09:00:26.391 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 196.3122ms
+2022-11-28 09:00:26.393 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:00:26.394 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 22 - 202 0 - 227.6976ms
+2022-11-28 09:00:29.778 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 22
+2022-11-28 09:00:29.780 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:00:29.781 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-28 09:00:29.818 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-28 09:00:29.819 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 36.9833ms
+2022-11-28 09:00:29.820 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:00:29.820 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 22 - 202 0 - 42.1197ms
+2022-11-28 09:04:38.096 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-28 09:04:38.572 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-28 09:04:38.573 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-28 09:04:38.574 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-28 09:04:38.575 +07:00 [INF] Hosting environment: Development
+2022-11-28 09:04:38.576 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-28 09:04:38.692 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-28 09:04:39.809 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-28 09:04:40.083 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 275.7717ms
+2022-11-28 09:04:40.104 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-28 09:04:40.104 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-28 09:04:40.114 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 10.0557ms
+2022-11-28 09:04:40.114 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 10.3715ms
+2022-11-28 09:04:40.150 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-28 09:04:40.278 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 127.6770ms
+2022-11-28 09:04:40.527 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-28 09:04:40.727 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 199.8373ms
+2022-11-28 09:04:51.005 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 22
+2022-11-28 09:04:51.009 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:04:51.032 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-28 09:04:51.230 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-28 09:04:51.233 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 198.3703ms
+2022-11-28 09:04:51.235 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:04:51.235 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 22 - 202 0 - 230.6357ms
+2022-11-28 09:06:43.310 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-28 09:06:43.828 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-28 09:06:43.830 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-28 09:06:43.834 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-28 09:06:43.834 +07:00 [INF] Hosting environment: Development
+2022-11-28 09:06:43.835 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-28 09:06:43.949 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-28 09:06:47.463 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-28 09:06:47.873 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 411.8948ms
+2022-11-28 09:06:47.931 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-28 09:06:47.931 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-28 09:06:47.953 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 21.9301ms
+2022-11-28 09:06:47.954 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 23.7103ms
+2022-11-28 09:06:48.059 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-28 09:06:48.237 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 177.8941ms
+2022-11-28 09:06:48.437 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-28 09:06:48.635 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 198.0153ms
+2022-11-28 09:07:00.505 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 22
+2022-11-28 09:07:00.509 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:07:00.533 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-28 09:07:00.743 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-28 09:07:00.746 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 210.2995ms
+2022-11-28 09:07:00.748 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:07:00.749 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 22 - 202 0 - 244.2629ms
+2022-11-28 09:11:18.565 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-28 09:11:19.093 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-28 09:11:19.096 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-28 09:11:19.098 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-28 09:11:19.099 +07:00 [INF] Hosting environment: Development
+2022-11-28 09:11:19.101 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-28 09:11:19.243 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-28 09:11:23.179 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-28 09:11:23.522 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 344.7934ms
+2022-11-28 09:11:23.602 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-28 09:11:23.612 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 10.2114ms
+2022-11-28 09:11:23.796 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-28 09:11:23.806 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 9.3746ms
+2022-11-28 09:11:23.821 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-28 09:11:23.888 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 66.3711ms
+2022-11-28 09:11:24.132 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-28 09:11:24.246 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 113.8710ms
+2022-11-28 09:11:31.003 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 22
+2022-11-28 09:11:31.006 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:11:31.027 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-28 09:11:31.223 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-28 09:11:31.226 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 195.3458ms
+2022-11-28 09:11:31.227 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:11:31.228 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 22 - 202 0 - 225.7479ms
+2022-11-28 09:12:37.604 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-28 09:12:38.149 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-28 09:12:38.151 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-28 09:12:38.153 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-28 09:12:38.154 +07:00 [INF] Hosting environment: Development
+2022-11-28 09:12:38.155 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-28 09:12:38.313 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-28 09:12:42.061 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-28 09:12:42.415 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 355.9169ms
+2022-11-28 09:12:42.503 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-28 09:12:42.520 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 16.5957ms
+2022-11-28 09:12:42.691 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-28 09:12:42.702 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 10.5923ms
+2022-11-28 09:12:42.705 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-28 09:12:42.759 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 54.3335ms
+2022-11-28 09:12:43.128 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-28 09:12:43.249 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 121.8982ms
+2022-11-28 09:12:55.301 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 22
+2022-11-28 09:12:55.304 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:12:55.325 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-28 09:12:55.533 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-28 09:12:55.537 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 207.412ms
+2022-11-28 09:12:55.538 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:12:55.539 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 22 - 202 0 - 238.1908ms
+2022-11-28 09:14:58.646 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-28 09:14:59.202 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-28 09:14:59.207 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-28 09:14:59.209 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-28 09:14:59.210 +07:00 [INF] Hosting environment: Development
+2022-11-28 09:14:59.212 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-28 09:14:59.373 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-28 09:15:02.155 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-28 09:15:02.496 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 344.1100ms
+2022-11-28 09:15:02.571 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-28 09:15:02.583 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 12.0878ms
+2022-11-28 09:15:02.688 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-28 09:15:02.707 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 20.1115ms
+2022-11-28 09:15:02.712 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-28 09:15:02.792 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 80.0307ms
+2022-11-28 09:15:03.146 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-28 09:15:03.274 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 128.3422ms
+2022-11-28 09:15:12.405 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 22
+2022-11-28 09:15:12.409 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:15:12.431 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-28 09:15:12.620 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-28 09:15:12.624 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 189.6627ms
+2022-11-28 09:15:12.625 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:15:12.626 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 22 - 202 0 - 221.2091ms
+2022-11-28 09:15:32.420 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 22
+2022-11-28 09:15:32.421 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:15:32.422 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserOrderModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-28 09:15:32.437 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-28 09:15:34.021 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 1597.0612ms
+2022-11-28 09:15:34.022 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:15:34.023 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 22 - 202 0 - 1604.1095ms
+2022-11-28 09:16:16.579 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-28 09:16:17.198 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-28 09:16:17.203 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-28 09:16:17.214 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-28 09:16:17.215 +07:00 [INF] Hosting environment: Development
+2022-11-28 09:16:17.218 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-28 09:16:17.391 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-28 09:16:17.815 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-28 09:16:18.100 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 289.5928ms
+2022-11-28 09:16:18.244 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-28 09:16:18.257 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 13.4777ms
+2022-11-28 09:16:18.286 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-28 09:16:18.295 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 9.1846ms
+2022-11-28 09:16:18.298 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-28 09:16:18.343 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 44.8534ms
+2022-11-28 09:16:18.523 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-28 09:16:18.638 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 114.9058ms
+2022-11-28 09:16:23.192 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 22
+2022-11-28 09:16:23.195 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:16:23.217 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-28 09:16:23.424 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-28 09:16:23.427 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 206.3786ms
+2022-11-28 09:16:23.428 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:16:23.430 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 22 - 202 0 - 237.5976ms
+2022-11-28 09:16:52.621 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-28 09:16:53.125 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-28 09:16:53.126 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-28 09:16:53.127 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-28 09:16:53.128 +07:00 [INF] Hosting environment: Development
+2022-11-28 09:16:53.129 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-28 09:16:53.224 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-28 09:16:56.776 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-28 09:16:57.126 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 352.5635ms
+2022-11-28 09:16:57.200 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-28 09:16:57.211 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 11.3964ms
+2022-11-28 09:16:57.420 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-28 09:16:57.427 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-28 09:16:57.431 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 10.6428ms
+2022-11-28 09:16:57.476 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.7825ms
+2022-11-28 09:16:57.690 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-28 09:16:57.779 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 89.3774ms
+2022-11-28 09:17:06.608 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 22
+2022-11-28 09:17:06.612 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:17:06.635 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-28 09:17:06.840 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-28 09:17:06.844 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 205.3833ms
+2022-11-28 09:17:06.846 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:17:06.847 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 22 - 202 0 - 238.9163ms
+2022-11-28 09:21:42.440 +07:00 [INF] Configured endpoint api-gateway--order-has-been-created, Consumer: DemoMicroservices.Consumers.OrderHasBeenCreatedConsumer
+2022-11-28 09:21:42.927 +07:00 [INF] Now listening on: https://localhost:7005
+2022-11-28 09:21:42.929 +07:00 [INF] Now listening on: http://localhost:5245
+2022-11-28 09:21:42.930 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-11-28 09:21:42.931 +07:00 [INF] Hosting environment: Development
+2022-11-28 09:21:42.931 +07:00 [INF] Content root path: C:\Users\tien.nguyenvan\Desktop\Demo\DemoMicroservices
+2022-11-28 09:21:43.031 +07:00 [INF] Bus started: "rabbitmq://localhost/"
+2022-11-28 09:21:46.541 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/index.html - -
+2022-11-28 09:21:46.873 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/index.html - - - 200 - text/html;charset=utf-8 334.4288ms
+2022-11-28 09:21:46.941 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/custom.css - -
+2022-11-28 09:21:46.951 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/custom.css - - - 404 0 - 10.1675ms
+2022-11-28 09:21:47.182 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - -
+2022-11-28 09:21:47.193 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_framework/aspnetcore-browser-refresh.js - - - 200 12004 application/javascript;+charset=utf-8 10.2923ms
+2022-11-28 09:21:47.195 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/_vs/browserLink - -
+2022-11-28 09:21:47.266 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 71.3676ms
+2022-11-28 09:21:47.545 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - -
+2022-11-28 09:21:47.662 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7005/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 117.1967ms
+2022-11-28 09:22:19.214 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7005/user application/json-patch+json 42
+2022-11-28 09:22:19.225 +07:00 [INF] Executing endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:22:19.249 +07:00 [INF] Route matched with {action = "AddUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddUser(Models.CreateUserModel, System.Threading.CancellationToken) on controller DemoMicroservices.Controllers.UserController (DemoMicroservices).
+2022-11-28 09:22:19.460 +07:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2022-11-28 09:22:19.463 +07:00 [INF] Executed action DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices) in 210.9847ms
+2022-11-28 09:22:19.465 +07:00 [INF] Executed endpoint 'DemoMicroservices.Controllers.UserController.AddUser (DemoMicroservices)'
+2022-11-28 09:22:19.466 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7005/user application/json-patch+json 42 - 202 0 - 251.9430ms
